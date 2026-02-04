@@ -13,7 +13,7 @@
 
 <h2>Adresler</h2>
 <ul>
-    <li><a href="http://maps.google.com/?q=1239 Budapest, Grassalkovich út 255. K10. 1. ép.">Grassalkovich Office</a></li>
+    <li><a href="http://maps.google.com/?q=Dunaharaszti, Dr. Varsányi Emil utca 1, 2330">Dunaharaszti HQ Office</a></li>
     <li><a href="http://maps.google.com/?q=1037 Budapest. Jablonka út 20.">Jablonka út 20.</a></li>
     <li><a href="http://maps.google.com/?q=Budapest, Róbert Károly körút 68, 1134">Nagy és Nagy</a></li>
     <li><a href="http://maps.google.com/?q=MOL Gas station">MOL Akaryakıt İstasyonları</a></li>
